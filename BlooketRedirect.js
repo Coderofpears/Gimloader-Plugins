@@ -3,7 +3,7 @@
  * @description Redirects Gimkit Join page to Blooket Play
  * @author Coderofpears
  * @version 1.0.0
- * @downloadUrl https://raw.githubusercontent.com/yourname/gimloader-plugins/main/plugins/BlooketRedirect.js
+ * @downloadUrl https://raw.githubusercontent.com/Coderofpears/Gimloader-Plugins/refs/heads/main/BlooketRedirect.js
  */
 
 (function() {
