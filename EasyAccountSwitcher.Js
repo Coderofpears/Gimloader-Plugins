@@ -3,6 +3,7 @@
  * @description Switch accounts quickly and easily
  * @version 1.0
  * @author Coderofpears
+ * @downloadUrl https://raw.githubusercontent.com/Coderofpears/Gimloader-Plugins/refs/heads/main/EasyAccountSwitcher.Js
  */
 
 (function() {
