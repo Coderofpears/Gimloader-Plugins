@@ -8,6 +8,14 @@
     "webpage": "https://gimloader.github.io/plugins/autojoinname"
   },
   {
+    "title": "Map Version Control",
+    "description": "A Git like version control for creative maps with commits, branches, stashing, and project management",
+    "author": "Coderofpears",
+    "downloadUrl": "https://raw.githubusercontent.com/Coderofpears/Gimloader-Plugins/refs/heads/main/MapVersionControl.js",
+    "reloadRequired": false,
+    "webpage": "https://raw.githubusercontent.com/Coderofpears/Gimloader-Plugins/refs/heads/main/MapVersionControl.js"
+  },
+  {
     "title": "Blooket Redirector",
     "description": "Play Blooket Games Inside Gimkit",
     "author": "Coderofpears",
