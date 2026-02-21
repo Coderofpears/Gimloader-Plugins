@@ -1,10 +1,290 @@
 [
   {
+    "title": "AutoJoinName",
+    "description": "Automatically joins games with a configured name",
+    "author": "retrozy",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/AutoJoinName.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/autojoinname"
+  },
+  {
     "title": "Blooket Redirector",
     "description": "Play Blooket Games Inside Gimkit",
     "author": "Coderofpears",
     "downloadUrl": "https://raw.githubusercontent.com/Coderofpears/Gimloader-Plugins/refs/heads/main/BlooketRedirect.js",
     "reloadRequired": false,
     "webpage": "https://raw.githubusercontent.com/Coderofpears/Gimloader-Plugins/refs/heads/main/BlooketRedirect.js"
+  },
+  {
+    "title": "AutoKicker",
+    "description": "Automatically kicks players from your lobby with a customizable set of rules",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/AutoKicker.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/autokicker"
+  },
+  {
+    "title": "Autosplitter",
+    "description": "Automatically times speedruns for various gamemodes",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/Autosplitter.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/autosplitter"
+  },
+  {
+    "title": "BringBackBoosts",
+    "description": "Restores boosts in Don't Look Down. Will cause you to desync, so others cannot see you move.",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/BringBackBoosts.js",
+    "reloadRequired": "ingame",
+    "webpage": "https://gimloader.github.io/plugins/bringbackboosts"
+  },
+  {
+    "title": "CameraControl",
+    "description": "Lets you freely move and zoom your camera",
+    "author": "TheLazySquid & Blackhole927",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/CameraControl.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/cameracontrol"
+  },
+  {
+    "title": "CharacterCustomization",
+    "description": "Allows you to use any gim or a custom gim client-side",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/CharacterCustomization.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/charactercustomization"
+  },
+  {
+    "title": "Chat",
+    "description": "Adds an in-game chat to 2d gamemodes",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/Chat.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/chat"
+  },
+  {
+    "title": "ConfirmClose",
+    "description": "Ask for confirmation before closing the tab when in-game",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/ConfirmClose.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/confirmclose"
+  },
+  {
+    "title": "CrazyFlag",
+    "description": "Make the flags in capture the flag or creative swing like crazy!",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/CrazyFlag.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/crazyflag"
+  },
+  {
+    "title": "CustomUI",
+    "description": "Allows you to customize various things about the Gimkit UI",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/CustomUI.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/customui"
+  },
+  {
+    "title": "Desynchronize",
+    "description": "Disables the client being snapped back by the server, others cannot see you move. Breaks most gamemodes.",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/Desynchronize.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/desynchronize"
+  },
+  {
+    "title": "DLDTAS",
+    "description": "Allows you to create TASes for Dont Look Down",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/DLDTAS.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/dldtas"
+  },
+  {
+    "title": "FixCrashes",
+    "description": "Attempts to prevent natural game crashes",
+    "author": "retrozy",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/FixCrashes.js",
+    "reloadRequired": "ingame",
+    "webpage": "https://gimloader.github.io/plugins/fixcrashes"
+  },
+  {
+    "title": "FixTileDupe",
+    "description": "Prevents you from placing a terrain twice on the same cell area, helpful in Dig It Up.",
+    "author": "retrozy",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/FixTileDupe.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/fixtiledupe"
+  },
+  {
+    "title": "GamemodeLinks",
+    "description": "Creates game rooms from links, particularly useful in bookmarks.",
+    "author": "retrozy",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/GamemodeLinks.js",
+    "reloadRequired": "notingame",
+    "webpage": "https://gimloader.github.io/plugins/gamemodelinks"
+  },
+  {
+    "title": "GameTimeMS",
+    "description": "Allows millisecond precision in the game timer",
+    "author": "retrozy",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/GameTimeMS.js",
+    "reloadRequired": "ingame",
+    "webpage": "https://gimloader.github.io/plugins/gametimems"
+  },
+  {
+    "title": "GuestControls",
+    "description": "Allows guests to perform host actions in 2d modes, when the host has this plugin on.",
+    "author": "retrozy",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/GuestControls.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/guestcontrols"
+  },
+  {
+    "title": "Healthbars",
+    "description": "Adds healthbars underneath players' names",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/Healthbars.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/healthbars"
+  },
+  {
+    "title": "IdleForXp",
+    "description": "Automatically performs actions to let you gain XP while idle",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/IdleForXp.js",
+    "reloadRequired": "ingame",
+    "webpage": "https://gimloader.github.io/plugins/idleforxp"
+  },
+  {
+    "title": "InfoLines",
+    "description": "Displays a configurable list of info on the screen",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/InfoLines.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/infolines"
+  },
+  {
+    "title": "InputRecorder",
+    "description": "Records your inputs in Don't Look Down",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/InputRecorder.js",
+    "reloadRequired": "ingame",
+    "webpage": "https://gimloader.github.io/plugins/inputrecorder"
+  },
+  {
+    "title": "InstantUse",
+    "description": "Instantly use nearby devices without any wait",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/InstantUse.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/instantuse"
+  },
+  {
+    "title": "KitTimesPlayed",
+    "description": "Shows the number of times that kits have been played on the kits screen",
+    "author": "retrozy",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/KitTimesPlayed.js",
+    "reloadRequired": "notingame",
+    "webpage": "https://gimloader.github.io/plugins/kittimesplayed"
+  },
+  {
+    "title": "2dMovementTAS",
+    "description": "Allows for making TASes of CTF and tag",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/2dMovementTAS.js",
+    "reloadRequired": "ingame",
+    "webpage": "https://gimloader.github.io/plugins/movementtas"
+  },
+  {
+    "title": "NoSchoolHours",
+    "description": "Bypasses the discovery page school hours",
+    "author": "retrozy",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/NoSchoolHours.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/noschoolhours"
+  },
+  {
+    "title": "PerformantGims",
+    "description": "Replaces configurable gims with images of them. Looks like crap, runs really fast.",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/PerformantGims.js",
+    "reloadRequired": "ingame",
+    "webpage": "https://gimloader.github.io/plugins/performantgims"
+  },
+  {
+    "title": "PhysicsSettings",
+    "description": "Allows you to configure various things about the physics in platformer modes (client-side only)",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/PhysicsSettings.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/physicssettings"
+  },
+  {
+    "title": "PlayerCollision",
+    "description": "Makes you collide with other players in 2d gamemodes",
+    "author": "retrozy",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/PlayerCollision.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/playercollision"
+  },
+  {
+    "title": "QuickReset",
+    "description": "Quickly lets you restart 2d gamemodes",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/QuickReset.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/quickreset"
+  },
+  {
+    "title": "Savestates",
+    "description": "Allows you to save and load states/summits in Don't Look Down. Only client side, nobody else can see you move.",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/Savestates.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/savestates"
+  },
+  {
+    "title": "ShiftConfirm",
+    "description": "Makes confirm popups resolve instantly when holding shift.",
+    "author": "retrozy",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/ShiftConfirm.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/shiftconfirm"
+  },
+  {
+    "title": "SingleTab",
+    "description": "Opens gamemodes in the current tab instead of a new tab.",
+    "author": "retrozy",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/SingleTab.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/singletab"
+  },
+  {
+    "title": "Teleport",
+    "description": "Ctrl+Click to teleport anywhere and a command to teleport to a player client-side",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/Teleport.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/teleport"
+  },
+  {
+    "title": "ToggleTerrainType",
+    "description": "Quickly toggle whether you are placing terrain as walls or as floor. Allows you to place tiles as floors in platformer mode.",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/ToggleTerrainType.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/toggleterraintype"
+  },
+  {
+    "title": "UncappedSettings",
+    "description": "Lets you start games with a much wider range of settings than normal",
+    "author": "TheLazySquid",
+    "downloadUrl": "https://raw.githubusercontent.com/Gimloader/client-plugins/main/build/plugins/UncappedSettings.js",
+    "reloadRequired": false,
+    "webpage": "https://gimloader.github.io/plugins/uncappedsettings"
   }
 ]
