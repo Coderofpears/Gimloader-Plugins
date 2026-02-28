@@ -1,0 +1,9 @@
+[
+  {
+    "value": "gkagent/Copilot1Mini",
+    "label": "Gimkit Copilot 1 Mini Beta",
+    "apiUrl": "http://my-server/v1/chat/completions",
+    "apiKey": "optional-key-or-empty-string",
+    "modelId": "GKCCopilot1Mini"
+  }
+]
