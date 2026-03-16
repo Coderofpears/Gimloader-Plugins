@@ -1,4 +1,4 @@
-/*
+/**
  * @name Gimkit Copilot MCP Version
  * @description A MCP Bridge for GKC to MCP Clients
  * @author Coderofpears
@@ -8,6 +8,7 @@
  * @webpage https://github.com/Coderofpears/Gimloader-Plugins/blob/main/GimkitCopilotMCP.js
  * @downloadUrl https://raw.githubusercontent.com/Coderofpears/Gimloader-Plugins/refs/heads/main/GimkitCopilotMCP.js 
  */
+
 /*
 
    ____ _           _    _ _      ____            _ _       _   
