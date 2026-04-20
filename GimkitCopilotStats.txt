@@ -1,1 +1,1 @@
-false
+This MCP server plugin will be retired on July 30th 2026. After that, we will not give any guarantee to server availability.
